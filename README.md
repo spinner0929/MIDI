@@ -13,9 +13,9 @@ MIDI キーボードから受け取った情報から、複数入力の同時押
 
 ## 動作環境
 
-MacOS Catelina 10.15.6
-Python 3.6.4
-(Win は試してません)
+MacOS Catelina 10.15.6  
+Python 3.6.4  
+(Win は試してません)  
 
 ## 使い方
 
