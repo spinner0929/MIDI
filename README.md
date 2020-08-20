@@ -24,4 +24,3 @@ python ~.py
 ## 作者
 
 [@nagagutsu_af](https://twitter.com/nagagutsu_af)
-
