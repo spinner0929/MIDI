@@ -1,4 +1,4 @@
-# MIDI
+# MIDI_tools
 
 Pygame-midi を使って MIDI キーボードの入力を受け取り、その入力情報からいろいろ解析するやつです。
 
