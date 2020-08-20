@@ -4,19 +4,12 @@ Pygame-midi を使って MIDI キーボードの入力を受け取り、その�
 
 ## 簡単な説明
 
-# test_midi.py
+### test_midi.py
 ただただ MIDI キーボードから入力された情報を出力するだけ。
 
-# midi.py
+### midi.py
 MIDI キーボードから受け取った情報から、複数入力の同時押し（例えばド、ミ、ソ）を出力するのに対応したコード。
 
-***デモ***
-
-Coming soon...
-
-## 機能
-
-Coming soon...
 
 ## 動作環境
 
